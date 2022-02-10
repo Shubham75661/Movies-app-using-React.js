@@ -1,0 +1,54 @@
+.Trial{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    margin-top:30px;
+    margin-bottom: 200px;
+    background-color: #262626;
+    align-items: center;
+    border-top: 2px solid #344;
+}
+.imagedata{
+    /* margin-top: 270px; */
+    margin-left: 100px;
+    color: white;
+    font-size:30px;
+}
+.ShowData{
+    background-color: #262626;
+    margin-top: 30px;
+    margin-left: 100px;
+    display: flex;
+    color: white;
+    flex-wrap: wrap;
+    border-left: 1px solid #344;
+}
+.ShowMData{
+    margin:30px;
+    font-size: 30px;
+}
+.Rating{
+    font-size: 20px;
+    background-color: #ffa500;
+}
+.SubRating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 140px;
+    font-size: 30px;
+}
+.Actors{
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+}
+.imagedata_sub{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #344;
+}
+.adjust{
+    font-size: 22px;
+}
